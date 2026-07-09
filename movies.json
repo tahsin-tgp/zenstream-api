@@ -1,0 +1,44 @@
+[
+  {
+    "id": 201,
+    "title": "Avengers: Endgame",
+    "type": "movie",
+    "genre": "Action, Sci-Fi",
+    "year": "2019",
+    "language": "English",
+    "poster_url": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "description": "After the devastating events of Infinity War, the Avengers must assemble once more to reverse Thanos's actions.",
+    "servers": [
+      { "name": "Server 1", "url": "https://example.com/avengers.m3u8" },
+      { "name": "Backup", "url": "https://example.com/avengers_bk.m3u8" }
+    ]
+  },
+  {
+    "id": 202,
+    "title": "Money Heist",
+    "type": "series",
+    "genre": "Crime, Drama",
+    "year": "2017",
+    "language": "Spanish",
+    "poster_url": "https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+    "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "title": "Episode 1 - Bella Ciao",
+        "servers": [
+          { "name": "Server 1", "url": "https://example.com/mh_ep1.m3u8" },
+          { "name": "Server 2", "url": "https://example.com/mh_ep1_bk.m3u8" }
+        ]
+      },
+      {
+        "episode_number": 2,
+        "title": "Episode 2 - The Siege Begins",
+        "servers": [
+          { "name": "Server 1", "url": "https://example.com/mh_ep2.m3u8" },
+          { "name": "Server 2", "url": "https://example.com/mh_ep2_bk.m3u8" }
+        ]
+      }
+    ]
+  }
+]

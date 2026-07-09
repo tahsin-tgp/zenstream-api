@@ -1,0 +1,6 @@
+var appUpdate = {
+  "latest_version": "1.0.1",
+  "force_update": false,
+  "update_url": "https://zenstreamm.pages.dev/downloads/zenstream_v1.0.1.apk",
+  "change_log": "১. সার্ভার লোডিং স্পিড বৃদ্ধি করা হয়েছে।\n২. নতুন ভিডিও প্লেয়ারে PiP ও স্ক্রিন লক যুক্ত করা হয়েছে।"
+};

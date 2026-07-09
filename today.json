@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "teamA": "Bangladesh",
+    "teamB": "India",
+    "sport": "Cricket",
+    "league": "Asia Cup 2025",
+    "time": "3:00 PM",
+    "live": true,
+    "logoA_url": "https://flagcdn.com/w80/bd.png",
+    "logoB_url": "https://flagcdn.com/w80/in.png",
+    "countryA_code": "bd",
+    "countryB_code": "in",
+    "servers": [
+      { "name": "Server 1", "url": "https://example.com/stream1.m3u8" },
+      { "name": "Server 2", "url": "https://example.com/stream2.m3u8" },
+      { "name": "Server 3", "url": "https://example.com/stream3.m3u8" }
+    ]
+  },
+  {
+    "id": 2,
+    "teamA": "Argentina",
+    "teamB": "Brazil",
+    "sport": "Football",
+    "league": "Copa America 2025",
+    "time": "7:00 PM",
+    "live": false,
+    "logoA_url": "https://flagcdn.com/w80/ar.png",
+    "logoB_url": "https://flagcdn.com/w80/br.png",
+    "countryA_code": "ar",
+    "countryB_code": "br",
+    "servers": [
+      { "name": "FOX Sports", "url": "https://example.com/fox.m3u8" },
+      { "name": "ESPN", "url": "https://example.com/espn.m3u8" }
+    ]
+  }
+]

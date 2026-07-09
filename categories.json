@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Football",
+    "icon_url": "https://zenstreamm.pages.dev/icons/football.svg",
+    "filters": ["Premier League", "La Liga", "Champions League", "Bundesliga", "Serie A"]
+  },
+  {
+    "id": 2,
+    "name": "Cricket",
+    "icon_url": "https://zenstreamm.pages.dev/icons/cricket.svg",
+    "filters": ["Test", "ODI", "T20", "IPL", "BPL", "Asia Cup"]
+  },
+  {
+    "id": 3,
+    "name": "Basketball",
+    "icon_url": "https://zenstreamm.pages.dev/icons/basketball.svg",
+    "filters": ["NBA", "EuroLeague", "FIBA"]
+  },
+  {
+    "id": 4,
+    "name": "Tennis",
+    "icon_url": "https://zenstreamm.pages.dev/icons/tennis.svg",
+    "filters": ["Grand Slam", "ATP", "WTA"]
+  },
+  {
+    "id": 5,
+    "name": "Cartoon",
+    "icon_url": "https://zenstreamm.pages.dev/icons/cartoon.svg",
+    "filters": ["Kids", "Anime", "Animation"]
+  },
+  {
+    "id": 6,
+    "name": "Movies",
+    "icon_url": "https://zenstreamm.pages.dev/icons/movies.svg",
+    "filters": ["Action", "Drama", "Comedy", "Horror", "Sci-Fi", "Bangla"]
+  },
+  {
+    "id": 7,
+    "name": "Web Series",
+    "icon_url": "https://zenstreamm.pages.dev/icons/webseries.svg",
+    "filters": ["Drama", "Crime", "Thriller", "Bangla"]
+  },
+  {
+    "id": 8,
+    "name": "News",
+    "icon_url": "https://zenstreamm.pages.dev/icons/news.svg",
+    "filters": ["International", "Bangladesh", "India"]
+  }
+]

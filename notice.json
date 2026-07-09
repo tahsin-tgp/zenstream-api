@@ -1,0 +1,10 @@
+{
+  "show_notice": true,
+  "title": "⚠️ গুরুত্বপূর্ণ বিজ্ঞপ্তি",
+  "message": "ZenStream এ আপনাকে স্বাগতম! আমাদের Telegram Channel এ যোগ দিন সর্বশেষ স্ট্রিম লিংক এবং আপডেট পেতে।\n\nযদি কোনো চ্যানেল কাজ না করে, Telegram এ জানান।",
+  "image_url": "https://zenstreamm.pages.dev/images/notice_banner.png",
+  "video_url": "",
+  "button_text": "Telegram এ যোগ দিন",
+  "button_url": "https://t.me/zenstreamofficial",
+  "button_action": "open_url"
+}

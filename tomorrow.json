@@ -1,0 +1,36 @@
+[
+  {
+    "id": 101,
+    "teamA": "England",
+    "teamB": "Australia",
+    "sport": "Cricket",
+    "league": "The Ashes 2025",
+    "time": "11:00 AM",
+    "live": false,
+    "logoA_url": "https://flagcdn.com/w80/gb-eng.png",
+    "logoB_url": "https://flagcdn.com/w80/au.png",
+    "countryA_code": "gb",
+    "countryB_code": "au",
+    "servers": [
+      { "name": "Sky Sports", "url": "https://example.com/sky.m3u8" },
+      { "name": "Backup", "url": "https://example.com/backup.m3u8" }
+    ]
+  },
+  {
+    "id": 102,
+    "teamA": "Real Madrid",
+    "teamB": "Barcelona",
+    "sport": "Football",
+    "league": "La Liga 2025",
+    "time": "9:00 PM",
+    "live": false,
+    "logoA_url": "https://media.api-sports.io/football/teams/541.png",
+    "logoB_url": "https://media.api-sports.io/football/teams/529.png",
+    "countryA_code": "es",
+    "countryB_code": "es",
+    "servers": [
+      { "name": "DAZN", "url": "https://example.com/dazn.m3u8" },
+      { "name": "BeIN", "url": "https://example.com/bein.m3u8" }
+    ]
+  }
+]
