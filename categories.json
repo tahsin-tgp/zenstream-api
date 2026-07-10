@@ -31,15 +31,15 @@
   },
   {
     "id": 6,
-    "name": "Movies",
-    "icon_url": "https://zenstreamm.pages.dev/icons/movies.svg",
-    "filters": ["Action", "Drama", "Comedy", "Horror", "Sci-Fi", "Bangla"]
+    "name": "Entertainment",
+    "icon_url": "https://zenstreamm.pages.dev/icons/entertainment.svg",
+    "filters": ["Drama", "Comedy", "Music", "Lifestyle"]
   },
   {
     "id": 7,
-    "name": "Web Series",
-    "icon_url": "https://zenstreamm.pages.dev/icons/webseries.svg",
-    "filters": ["Drama", "Crime", "Thriller", "Bangla"]
+    "name": "Documentary",
+    "icon_url": "https://zenstreamm.pages.dev/icons/documentary.svg",
+    "filters": ["Nature", "Science", "History"]
   },
   {
     "id": 8,
