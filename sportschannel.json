@@ -1,10 +1,15 @@
-
 {
   "Football": [
     {
+      "name": "FS1 01",
+      "servers": [
+        { "name": "Server 1", "url": "http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160" }
+      ]
+    },
+    {
       "name": "Toffe",
       "servers": [
-        { "name": "Server 1", "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783792444~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGU5MDJhOGItNTUxNC00YzY3LThkMDktODNiNmNlYjU3ZDdkIn0~Signature=AWIR_5FugULI3QiuwPy3e2UrlF8HujBlR_QE6lsPeraClrK3moua0aOYNKIKreMNjbWjeE_3g__FVupuL2oUkLkvSQMD" }
+        { "name": "Server 1", "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783705052~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGU5MDJhOGItNTUxNC00YzY3LThkMDktODNiNmNlYjU3ZDdkIn0~Signature=AWIR_5ERKx6cVNX6-zPNziJtC7vlmBZESMaKDcC-hpYUw4Vg2OwRuyZapJ0FfzwDBt4Oeeb5jF-whD53VcLmSjE-MZsH" }
       ]
     },
     {
@@ -14,9 +19,87 @@
       ]
     },
     {
-      "name": "CAZE TV",
+      "name": "Bein Sports",
       "servers": [
-        { "name": "Server 1", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8" }
+        { "name": "Server 1", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8" }
+      ]
+    },
+    {
+      "name": "Bein Sports Tekrar",
+      "servers": [
+        { "name": "Server 1", "url": "https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8" }
+      ]
+    },
+    {
+      "name": "Bein Sports Extra",
+      "servers": [
+        { "name": "Server 1", "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8" }
+      ]
+    },
+    {
+      "name": "TSN1 CA 01",
+      "servers": [
+        { "name": "Server 1", "url": "http://89.187.179.148:826/anto.j/c9yJDcXyPe/162" }
+      ]
+    },
+    {
+      "name": "TSN2 CA",
+      "servers": [
+        { "name": "Server 1", "url": "http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622" }
+      ]
+    },
+    {
+      "name": "FIFAWC 2026 GAME 01",
+      "servers": [
+        { "name": "Server 1", "url": "http://wickediptv.xyz/Randall123/Randall321/340018" }
+      ]
+    },
+    {
+      "name": "beIN SPORTS",
+      "servers": [
+        { "name": "Server 1", "url": "http://vpn.usxk.xyz/sqSC8712/SvUt4481/550401" }
+      ]
+    },
+    {
+      "name": "beIN SPORTS MAX 1",
+      "servers": [
+        { "name": "Server 1", "url": "http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944357" }
+      ]
+    },
+    {
+      "name": "beIN SPORTS MAX 2",
+      "servers": [
+        { "name": "Server 1", "url": "http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944358" }
+      ]
+    },
+    {
+      "name": "NOW Sports 618",
+      "servers": [
+        { "name": "Server 1", "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863" }
+      ]
+    },
+    {
+      "name": "FOX 02",
+      "servers": [
+        { "name": "Server 1", "url": "http://89.187.179.148:826/anto.j/c9yJDcXyPe/109511" }
+      ]
+    },
+    {
+      "name": "FOX 03",
+      "servers": [
+        { "name": "Server 1", "url": "http://stream.cammonitorplus.net/1752/index.m3u8" }
+      ]
+    },
+    {
+      "name": "FS1 02",
+      "servers": [
+        { "name": "Server 1", "url": "http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1236473" }
+      ]
+    },
+    {
+      "name": "FS1 03",
+      "servers": [
+        { "name": "Server 1", "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/328813" }
       ]
     }
   ]
