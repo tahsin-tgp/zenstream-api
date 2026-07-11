@@ -4,7 +4,7 @@
     "teamA": "Norway",
     "teamB": "England",
     "sport": "Football",
-    "league": "World Championship",
+    "league": "FIFA World Cup 2026",
     "time": "03:00 AM",
     "live": false,
     "logoA_url": "https://flagcdn.com/w80/no.png",
@@ -14,15 +14,7 @@
     "servers": [
       {
         "name": "Toffe",
-        "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783705052~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGU5MDJhOGItNTUxNC00YzY3LThkMDktODNiNmNlYjU3ZDdkIn0~Signature=AWIR_5ERKx6cVNX6-zPNziJtC7vlmBZESMaKDcC-hpYUw4Vg2OwRuyZapJ0FfzwDBt4Oeeb5jF-whD53VcLmSjE-MZsH"
-      },
-      {
-        "name": "Somoy Tv",
-        "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
-      },
-      {
-        "name": "CAZE TV",
-        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8"
+        "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8"
       }
     ]
   },
@@ -31,7 +23,7 @@
     "teamA": "Argentina",
     "teamB": "Switzerland",
     "sport": "Football",
-    "league": "World Championship",
+    "league": "FIFA World Cup 2026",
     "time": "07:00 AM",
     "live": false,
     "logoA_url": "https://flagcdn.com/w80/ar.png",
@@ -41,15 +33,8 @@
     "servers": [
       {
         "name": "Toffe",
-        "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783705052~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGU5MDJhOGItNTUxNC00YzY3LThkMDktODNiNmNlYjU3ZDdkIn0~Signature=AWIR_5ERKx6cVNX6-zPNziJtC7vlmBZESMaKDcC-hpYUw4Vg2OwRuyZapJ0FfzwDBt4Oeeb5jF-whD53VcLmSjE-MZsH"
-      },
-      {
-        "name": "Somoy Tv",
-        "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
-      },
-      {
-        "name": "CAZE TV",
-        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8"}
+        "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8"
+      }
     ]
   }
 ]
