@@ -1,6 +1,42 @@
 {
   "Football": [
     {
+      "name": "FOX TV",
+      "servers": [
+        { "name": "Server 1", "url": "https://fiveo4.vilevodules.uk/main/secure/123010c9da397f5b5b2acb366b949ad401d14c8967251d51e10a227eb71f10de/1784147277/fox-usa.m3u8" }
+      ]
+    },
+    {
+      "name": "TSN 1",
+      "servers": [
+        { "name": "Server 1", "url": "https://fiveo4.vilevodules.uk/main/secure/71d1a26c38a94d52b02ea55fbaa4f40c2a0c52fde2a0b2b6eac6ea436628b004/1784147408/tsn1-ca.m3u8" }
+      ]
+    },
+    {
+      "name": "BBC",
+      "servers": [
+        { "name": "Server 1", "url": "https://fiveo4.vilevodules.uk/main/secure/1d5da52995cd334fce103bf1cf3c5d29d57bdd4032714b7dfcb87416b8db3127/1784147424/bbcone-uk.m3u8" }
+      ]
+    },
+    {
+      "name": "Bein sports max",
+      "servers": [
+        { "name": "Server 1", "url": "https://fiveo4.vilevodules.uk/main/secure/5e1e1a67d17173ae9c7e0c0364db1b7c4af5025022f211af1c59bb98210ad316/1784147436/beinsportsmax-sa.m3u8" }
+      ]
+    },
+    {
+      "name": "DAZN",
+      "servers": [
+        { "name": "Server 1", "url": "https://fiveo4.vilevodules.uk/main/secure/ad648c866a972685cefb3cee5029ce82982918ccdc5513d43f5ad625466a76fe/1784147451/daznmundial-es.m3u8" }
+      ]
+    },
+    {
+      "name": "TVP sport",
+      "servers": [
+        { "name": "Server 1", "url": "https://fiveo4.vilevodules.uk/main/secure/55954878d983cf400368cb58ec1a90fc6d035836291b6032266adb77b10cd235/1784147471/tvpsport-pl.m3u8" }
+      ]
+    },
+    {
       "name": "FS1 01",
       "servers": [
         { "name": "Server 1", "url": "http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160" }
