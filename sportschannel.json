@@ -1,9 +1,48 @@
 {
   "Football": [
     {
-      "name": "FOX TV",
+      "name": "Caze TV",
       "servers": [
-        { "name": "Server 1", "url": "http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1" }
+        { "name": "Server 1", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8" }
+      ]
+    },
+    {
+      "name": "Bein Sports Extra",
+      "servers": [
+        { "name": "Server 1", "url": "https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8" },
+        { "name": "Server 2", "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8" }
+      ]
+    },
+    {
+      "name": "TSN4",
+      "servers": [
+        { "name": "Server 1", "url": "http://40.160.24.55/TSN_4/index.m3u8" }
+      ]
+    },
+    {
+      "name": "T Sports",
+      "servers": [
+        { "name": "Server 1", "url": "http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1" },
+        { "name": "Server 2", "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8" }
+      ]
+    },
+    {
+      "name": "Somoy Tv",
+      "servers": [
+        { "name": "Server 1", "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8" },
+        { "name": "Server 2", "url": "http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1" }
+      ]
+    },
+    {
+      "name": "FOX TV (USA FOX Deportes)",
+      "servers": [
+        { "name": "Server 1", "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8" }
+      ]
+    },
+    {
+      "name": "BTV",
+      "servers": [
+        { "name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=2202800.m3u8" }
       ]
     },
     {
@@ -43,19 +82,6 @@
       ]
     },
     {
-      "name": "T Sports",
-      "servers": [
-        { "name": "Server 1", "url": "http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1" },
-        { "name": "Server 2", "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8" }
-      ]
-    },
-    {
-      "name": "Caze TV",
-      "servers": [
-        { "name": "Server 1", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8" }
-      ]
-    },
-    {
       "name": "TSN2 CA",
       "servers": [
         { "name": "Server 1", "url": "http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622" }
@@ -71,19 +97,6 @@
       "name": "Toffe",
       "servers": [
         { "name": "Server 1", "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783792444~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGU5MDJhOGItNTUxNC00YzY3LThkMDktODNiNmNlYjU3ZDdkIn0~Signature=AWIR_5FugULI3QiuwPy3e2UrlF8HujBlR_QE6lsPeraClrK3moua0aOYNKIKreMNjbWjeE_3g__FVupuL2oUkLkvSQMD" }
-      ]
-    },
-    {
-      "name": "Somoy Tv",
-      "servers": [
-        { "name": "Server 1", "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8" },
-        { "name": "Server 2", "url": "http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1" }
-      ]
-    },
-    {
-      "name": "BTV",
-      "servers": [
-        { "name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=2202800.m3u8" }
       ]
     },
     {
@@ -150,13 +163,6 @@
       "name": "FS1 03",
       "servers": [
         { "name": "Server 1", "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/328813" }
-      ]
-    },
-    {
-      "name": "Bein Sports Extra",
-      "servers": [
-        { "name": "Server 1", "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8" },
-        { "name": "Server 2", "url": "https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8" }
       ]
     }
   ]
