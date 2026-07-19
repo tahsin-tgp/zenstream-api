@@ -1,16 +1,16 @@
 [
   {
-    "id": 2,
-    "teamA": "zzzz",
-    "teamB": "Belgium",
+    "id": 1,
+    "teamA": "Argentina",
+    "teamB": "Spain",
     "sport": "Football",
-    "league": "World Championship",
-    "time": "01:00 AM",
-    "live": false,
-    "logoA_url": "https://flagcdn.com/w80/es.png",
-    "logoB_url": "https://flagcdn.com/w80/be.png",
-    "countryA_code": "es",
-    "countryB_code": "be",
+    "league": "International Friendly",
+    "time": "09:00 PM",
+    "live": true,
+    "logoA_url": "https://flagcdn.com/w80/ar.png",
+    "logoB_url": "https://flagcdn.com/w80/es.png",
+    "countryA_code": "ar",
+    "countryB_code": "es",
     "servers": [
       {
         "name": "Server 1",
