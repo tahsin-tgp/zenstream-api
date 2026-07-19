@@ -1,1 +1,20 @@
-
+[
+  {
+    "status": "LIVE",
+    "Category": "Football",
+    "event_name": "Argentina vs Spain",
+    "eventInfo": {
+      "teamA": "Argentina",
+      "teamB": "Spain",
+      "teamAFlag": "https://flagcdn.com/w80/ar.png",
+      "teamBFlag": "https://flagcdn.com/w80/es.png",
+      "eventName": "International Friendly",
+      "startTime": "20-07-2026 09:00 PM"
+    },
+    "streams": [
+      {
+        "stream_url": "https://example-stream-url.com/stream.m3u8"
+      }
+    ]
+  }
+]
