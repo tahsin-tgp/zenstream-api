@@ -3,7 +3,7 @@
     {
       "name": "Caze TV",
       "servers": [
-        { "name": "Server 1", "url": "http://40.160.24.55/TSN_4/index.m3u8" }
+        { "name": "Server 1", "url": "https://tfxp6gr3uomttgr31hct1grzdrctwfisg17ufgr.100ycdn.com/live1.streambylivepulse.com/live/channel15/playlist.m3u8?wsSession=628f39eaf4cc68b8e6ade27d-178448739657844&wsIPSercert=9fe52c78ab68b13248c9d28673e972d1&wsBindIP=2&wsserid=1168299906138624140" }
       ]
     },
     {
