@@ -1,19 +1,20 @@
 [
   {
-    "status": "LIVE",
-    "Category": "Football",
-    "event_name": "Argentina vs Spain",
-    "eventInfo": {
-      "teamA": "Argentina",
-      "teamB": "Spain",
-      "teamAFlag": "https://flagcdn.com/w80/ar.png",
-      "teamBFlag": "https://flagcdn.com/w80/es.png",
-      "eventName": "International Friendly",
-      "startTime": "20-07-2026 09:00 PM"
-    },
-    "streams": [
+    "id": 1,
+    "teamA": "Argentina",
+    "teamB": "Spain",
+    "sport": "Football",
+    "league": "International Friendly",
+    "time": "09:00 PM",
+    "live": true,
+    "logoA_url": "https://flagcdn.com/w80/ar.png",
+    "logoB_url": "https://flagcdn.com/w80/es.png",
+    "countryA_code": "ar",
+    "countryB_code": "es",
+    "servers": [
       {
-        "stream_url": "https://example-stream-url.com/stream.m3u8"
+        "name": "Server 1",
+        "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
       }
     ]
   }
