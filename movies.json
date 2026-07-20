@@ -40,5 +40,18 @@
         ]
       }
     ]
+  },
+  {
+    "id": 203,
+    "title": "YouTube Test Movie",
+    "type": "movie",
+    "genre": "Test",
+    "year": "2024",
+    "language": "English",
+    "poster_url": "https://i.ytimg.com/vi/Aga05XbNjAo/maxresdefault.jpg",
+    "description": "Test movie with YouTube link - app will automatically extract direct MP4 URL from this YouTube link.",
+    "servers": [
+      { "name": "YouTube", "url": "https://www.youtube.com/watch?v=Aga05XbNjAo&t=851s" }
+    ]
   }
 ]
