@@ -1,6 +1,6 @@
-{
+var appUpdate = {
   "latest_version": "1.2.1",
-  "force_update": true,
+  "force_update": false,
   "update_url": "https://www.googleapis.com/drive/v3/files/1VGm1QWPW8yC8-xC4e_UngIWWj5FqgTMC?alt=media&key=AIzaSyCZ44iNZB_GORCFFPpkapzf2neEyFXc6ZU",
   "change_log": "১. সার্ভার লোডিং স্পিড বৃদ্ধি করা হয়েছে।\n২. নতুন ভিডিও প্লেয়ারে PiP ও স্ক্রিন লক যুক্ত করা হয়েছে।"
-}
+};
