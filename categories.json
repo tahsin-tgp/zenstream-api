@@ -2,49 +2,67 @@
   {
     "id": 1,
     "name": "Football",
-    "icon_url": "https://zenstreamm.pages.dev/icons/football.svg",
+    "icon_url": "https://png.pngtree.com/png-vector/20231116/ourmid/pngtree-red-football-ball-blank-png-image_10484834.png",
     "filters": ["Premier League", "La Liga", "Champions League", "Bundesliga", "Serie A"]
   },
   {
     "id": 2,
     "name": "Cricket",
-    "icon_url": "https://zenstreamm.pages.dev/icons/cricket.svg",
+    "icon_url": "https://png.pngtree.com/png-clipart/20241104/original/pngtree-cricket-player-game-icon-png-image_16675576.png",
     "filters": ["Test", "ODI", "T20", "IPL", "BPL", "Asia Cup"]
   },
   {
     "id": 3,
     "name": "Basketball",
-    "icon_url": "https://zenstreamm.pages.dev/icons/basketball.svg",
+    "icon_url": "https://cdn-icons-png.flaticon.com/512/1041/1041168.png",
     "filters": ["NBA", "EuroLeague", "FIBA"]
   },
   {
     "id": 4,
     "name": "Tennis",
-    "icon_url": "https://zenstreamm.pages.dev/icons/tennis.svg",
+    "icon_url": "https://cdn-icons-png.flaticon.com/512/9722/9722497.png",
     "filters": ["Grand Slam", "ATP", "WTA"]
   },
   {
     "id": 5,
     "name": "Cartoon",
-    "icon_url": "https://zenstreamm.pages.dev/icons/cartoon.svg",
+    "icon_url": "https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png",
     "filters": ["Kids", "Anime", "Animation"]
   },
   {
     "id": 6,
     "name": "Entertainment",
-    "icon_url": "https://zenstreamm.pages.dev/icons/entertainment.svg",
+    "icon_url": "https://png.pngtree.com/png-clipart/20220723/ourmid/pngtree-entertainment-icon-png-image_6034079.png",
     "filters": ["Drama", "Comedy", "Music", "Lifestyle"]
   },
   {
     "id": 7,
-    "name": "Documentary",
-    "icon_url": "https://zenstreamm.pages.dev/icons/documentary.svg",
-    "filters": ["Nature", "Science", "History"]
+    "name": "T20 International",
+    "icon_url": "https://png.pngtree.com/png-vector/20221008/ourmid/pngtree-t20-world-cup-logo-png-image_6291093.png",
+    "filters": ["Live", "Matches", "Teams", "Groups"]
   },
   {
     "id": 8,
+    "name": "Documentary",
+    "icon_url": "https://cdn-icons-png.flaticon.com/512/10925/10925300.png",
+    "filters": ["Nature", "Science", "History"]
+  },
+  {
+    "id": 9,
     "name": "News",
-    "icon_url": "https://zenstreamm.pages.dev/icons/news.svg",
+    "icon_url": "https://www.pngitem.com/pimgs/m/192-1927144_news-icon-top-breaking-news-hd-png-download.png",
     "filters": ["International", "Bangladesh", "India"]
+  },
+  {
+    "id": 10,
+    "name": "Wrestling",
+    "icon_url": "https://img.icons8.com/emoji/1200/men-wrestling.jpg",
+    "filters": ["WWE Raw", "SmackDown", "AEW"]
+  },
+  {
+    "id": 11,
+    "name": "Motor Sports",
+    "icon_url": "https://cdn-icons-png.flaticon.com/512/37/37573.png",
+    "filters": ["Formula 1", "MotoGP", "NASCAR"]
   }
 ]
