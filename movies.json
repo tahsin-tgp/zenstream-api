@@ -9,8 +9,14 @@
     "poster_url": "https://i.ytimg.com/vi/EoL_3rl2nPE/maxresdefault.jpg",
     "description": "A village electrician's journey into crime takes drastic turns as he goes to extremes to fulfill his love's desires.",
     "servers": [
-      { "name": "Server 1", "url": "https://pub-d8f5af7f053343ed8295b16a145f6c1c.r2.dev/siam/[FGBDVibes]Surongo.(2023).480p.mkv" },
-      { "name": "Backup", "url": "https://pub-d8f5af7f053343ed8295b16a145f6c1c.r2.dev/siam/[FGBDVibes]Surongo.(2023).480p.mkv" }
+      {
+        "name": "Server 1",
+        "url": "https://pub-d8f5af7f053343ed8295b16a145f6c1c.r2.dev/siam/[FGBDVibes]Surongo.(2023).480p.mkv"
+      },
+      {
+        "name": "Backup",
+        "url": "https://pub-d8f5af7f053343ed8295b16a145f6c1c.r2.dev/siam/[FGBDVibes]Surongo.(2023).480p.mkv"
+      }
     ]
   },
   {
@@ -27,31 +33,46 @@
         "episode_number": 1,
         "title": "Episode 1 - Bella Ciao",
         "servers": [
-          { "name": "Server 1", "url": "https://example.com/mh_ep1.m3u8" },
-          { "name": "Server 2", "url": "https://example.com/mh_ep1_bk.m3u8" }
+          {
+            "name": "Server 1",
+            "url": "https://example.com/mh_ep1.m3u8"
+          },
+          {
+            "name": "Server 2",
+            "url": "https://example.com/mh_ep1_bk.m3u8"
+          }
         ]
       },
       {
         "episode_number": 2,
         "title": "Episode 2 - The Siege Begins",
         "servers": [
-          { "name": "Server 1", "url": "https://example.com/mh_ep2.m3u8" },
-          { "name": "Server 2", "url": "https://example.com/mh_ep2_bk.m3u8" }
+          {
+            "name": "Server 1",
+            "url": "https://example.com/mh_ep2.m3u8"
+          },
+          {
+            "name": "Server 2",
+            "url": "https://example.com/mh_ep2_bk.m3u8"
+          }
         ]
       }
     ]
   },
   {
     "id": 203,
-    "title": "YouTube Test Movie",
+    "title": "Madam Geeta Rani",
     "type": "movie",
-    "genre": "Test",
-    "year": "2024",
-    "language": "English",
-    "poster_url": "https://i.ytimg.com/vi/Aga05XbNjAo/maxresdefault.jpg",
-    "description": "Test movie with YouTube link - app will automatically extract direct MP4 URL from this YouTube link.",
+    "genre": "Drama",
+    "year": "2019",
+    "language": "Hindi",
+    "poster_url": "https://i.pinimg.com/736x/87/31/1b/87311b2bba80f9adc9cf05d4e98a5c40.jpg",
+    "description": "A dedicated headmistress takes on the challenge of reforming a poorly managed government school while fighting against a corrupt system.",
     "servers": [
-      { "name": "YouTube", "url": "https://www.youtube.com/watch?v=qo1Dzs0BgQc" }
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/watch?v=krCpn6RrNX8"
+      }
     ]
   }
 ]
