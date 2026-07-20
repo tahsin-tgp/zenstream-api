@@ -1,0 +1,36 @@
+{
+  "News": [
+    {
+      "id": 1,
+      "name": "Somoy TV",
+      "logo_url": "https://example.com/somoy-logo.png",
+      "sub_category": "",
+      "country_code": "bd",
+      "country_name": "Bangladesh",
+      "label": "HD",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
+        }
+      ]
+    }
+  ],
+  "Bangla News": [
+    {
+      "id": 2,
+      "name": "Somoy TV",
+      "logo_url": "https://example.com/somoy-logo.png",
+      "sub_category": "",
+      "country_code": "bd",
+      "country_name": "Bangladesh",
+      "label": "HD",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
+        }
+      ]
+    }
+  ]
+}
