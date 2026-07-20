@@ -1,3 +1,6 @@
 {
-  "enabled": false
+  "enabled": true,
+  "movie_ad_count": 5,
+  "series_ad_count": 1,
+  "reset_after_watch": false
 }
