@@ -1,34 +1,18 @@
 {
-  "Football": [
+  "Cartoon": [
     {
-      "id": 1,
-      "name": "Somoy TV",
-      "logo_url": "https://example.com/somoy-logo.png",
-      "sub_category": "Premier League",
-      "country_code": "bd",
+      "id": 27,
+      "name": "SRK TV",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
+      "category": "Bangla",
+      "sub_category": "Kids",
+      "country_code": "BD",
       "country_name": "Bangladesh",
-      "label": "HD",
+      "label": "",
       "servers": [
         {
           "name": "Server 1",
-          "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
-        }
-      ]
-    }
-  ],
-  "Bangla News": [
-    {
-      "id": 2,
-      "name": "Somoy TV",
-      "logo_url": "https://example.com/somoy-logo.png",
-      "sub_category": "",
-      "country_code": "bd",
-      "country_name": "Bangladesh",
-      "label": "HD",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
+          "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8"
         }
       ]
     }
