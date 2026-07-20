@@ -56,7 +56,7 @@
   },
   {
     "name": "Channel 24",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg",
+    "logo_url": "https://www.lyngsat.com/logo/tv/cc/channel24_bd.png",
     "category": "News",
     "sub_category": "Bangla News",
     "country_code": "BD",
@@ -67,7 +67,7 @@
   },
   {
     "name": "INDEPENDENT TV",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/c/c1/Independent_Television_Logo.svg",
+    "logo_url": "https://www.lyngsat.com/logo/tv/ii/independent_tv.png",
     "category": "News",
     "sub_category": "Bangla News",
     "country_code": "BD",
@@ -78,7 +78,7 @@
   },
   {
     "name": "JAMUNA TV",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/1280px-Jamuna_TV_logo.svg.png",
+    "logo_url": "https://www.lyngsat.com/logo/tv/jj/jamuna_tv_bd.png",
     "category": "News",
     "sub_category": "Bangla News",
     "country_code": "BD",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Star News",
-    "logo_url": "https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_News_Bangladesh_Old_Logo_Horizontal_%28with_slogan%29.svg",
+    "logo_url": "https://www.lyngsat.com/logo/tv/ss/star-news-bd.png",
     "category": "News",
     "sub_category": "Hindi News",
     "country_code": "IN",
@@ -188,7 +188,7 @@
   },
   {
     "name": "BOISHAKHI TV",
-    "logo_url": "https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png",
+    "logo_url": "https://www.lyngsat.com/logo/tv/bb/boishakhi.png",
     "category": "Bangla",
     "sub_category": "Entertainment",
     "country_code": "BD",
@@ -276,7 +276,7 @@
   },
   {
     "name": "Mohona Tv",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/9/94/Mohona_tv_Logo.svg",
+    "logo_url": "https://www.lyngsat.com/logo/tv/mm/mohona-tv-bd.svg",
     "category": "Bangla",
     "sub_category": "Entertainment",
     "country_code": "BD",
