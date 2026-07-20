@@ -122,7 +122,7 @@
   },
   {
     "name": "Ekhon tv",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Ekhon_Logo.svg/1280px-Ekhon_Logo.svg.png",
     "category": "News",
     "sub_category": "Bangla News",
     "country_code": "BD",
@@ -133,7 +133,7 @@
   },
   {
     "name": "ATN NEWS",
-    "logo_url": "https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1280px-ATN_News_logo.svg.png",
     "category": "News",
     "sub_category": "Bangla News",
     "country_code": "BD",
@@ -221,7 +221,7 @@
   },
   {
     "name": "Deepto TV",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",
+    "logo_url": "https://images.seeklogo.com/logo-png/51/2/deepto-tv-logo-png_seeklogo-513994.png",
     "category": "Bangla",
     "sub_category": "Entertainment",
     "country_code": "BD",
@@ -232,7 +232,7 @@
   },
   {
     "name": "Maasranga Tv",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",
+    "logo_url": "https://mail.maasranga.tv/public/customize/newImage/logo.png",
     "category": "Bangla",
     "sub_category": "Entertainment",
     "country_code": "BD",
@@ -276,7 +276,7 @@
   },
   {
     "name": "Mohona Tv",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/9/94/Mohona_tv_Logo.svg",
     "category": "Bangla",
     "sub_category": "Entertainment",
     "country_code": "BD",
@@ -298,7 +298,7 @@
   },
   {
     "name": "Green tv",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Green_TV_Logo.png",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",
     "category": "Bangla",
     "sub_category": "Entertainment",
     "country_code": "BD",
@@ -320,7 +320,7 @@
   },
   {
     "name": "Al Jazeera",
-    "logo_url": "https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg",
+    "logo_url": "https://pluspng.com/img-png/al-jazeera-logo-png-al-jazeera-logo-1431.png",
     "category": "International News",
     "sub_category": "English",
     "country_code": "QA",
@@ -353,7 +353,7 @@
   },
   {
     "name": "DW",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Deutsche_Welle_logo_2012.svg/320px-Deutsche_Welle_logo_2012.svg.png",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",
     "category": "International News",
     "sub_category": "English",
     "country_code": "DE",
@@ -364,7 +364,7 @@
   },
   {
     "name": "Iran International",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Iran_International_logo.svg/320px-Iran_International_logo.svg.png",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/960px-Iran_International.svg.png",
     "category": "International News",
     "sub_category": "English",
     "country_code": "UK",
@@ -375,7 +375,7 @@
   },
   {
     "name": "NHK World",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NHK_World_logo.svg/320px-NHK_World_logo.svg.png",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/3840px-NHK_World.svg.png",
     "category": "International News",
     "sub_category": "English",
     "country_code": "JP",
@@ -386,7 +386,7 @@
   },
   {
     "name": "CGTN News",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/CGTN_logo.svg/320px-CGTN_logo.svg.png",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/CGTN.svg",
     "category": "International News",
     "sub_category": "English",
     "country_code": "CN",
@@ -397,7 +397,7 @@
   },
   {
     "name": "France 24",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/250px-France_24_logo_%282013%29.svg.png",
     "category": "International News",
     "sub_category": "English",
     "country_code": "FR",
