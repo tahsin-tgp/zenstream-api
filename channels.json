@@ -10,9 +10,9 @@
       "servers": [
         {
           "name": "Server 1",
-          "url": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8",
-          "cookie": "",
-          "user_agent": ""
+          "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8",
+          "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1784817225:KeyName=prod_linear:Signature=qdpzbOzlZ-rEFLT83astdYwU57Cgpdm4o-e0yerm2BLM_rd4TJ5MJam0HLDr3gVKa71Y0iC1cUYVBfQEKMktBA",
+          "user_agent": "okhttp/4.11.0"
         }
       ],
       "id": 1
