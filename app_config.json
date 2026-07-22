@@ -1,4 +1,5 @@
 {
+  "baseUrl": "https://raw.githubusercontent.com/tahsin-tgp/zenstream-api/main/",
   "disableScreenshotsAndRecording": true,
   "enableLocationTracking": false
 }

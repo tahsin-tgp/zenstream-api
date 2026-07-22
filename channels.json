@@ -7,7 +7,7 @@
     "country_code": "BD",
     "country_name": "Bangladesh",
     "label": "",
-    "servers": [{"name": "Server 1", "url": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8"}],
+    "servers": [{"name": "Server 1", "url": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8", "cookie": "", "user_agent": ""}],
     "id": 1
   },
   {
@@ -18,7 +18,7 @@
     "country_code": "BD",
     "country_name": "Bangladesh",
     "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"}],
+    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8", "cookie": "", "user_agent": ""}],
     "id": 2
   },
   {
@@ -29,7 +29,7 @@
     "country_code": "BD",
     "country_name": "Bangladesh",
     "label": "",
-    "servers": [{"name": "Server 1", "url": "http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1"}, {"name": "Server 2", "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"}],
+    "servers": [{"name": "Server 1", "url": "http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1", "cookie": "", "user_agent": ""}, {"name": "Server 2", "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8", "cookie": "", "user_agent": ""}],
     "id": 3
   },
   {
@@ -40,7 +40,7 @@
     "country_code": "BD",
     "country_name": "Bangladesh",
     "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"}, {"name": "Server 2", "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=/ekattor_tv"}],
+    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8", "cookie": "", "user_agent": ""}, {"name": "Server 2", "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=/ekattor_tv", "cookie": "", "user_agent": ""}],
     "id": 4
   },
   {
@@ -51,7 +51,7 @@
     "country_code": "BD",
     "country_name": "Bangladesh",
     "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"}],
+    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8", "cookie": "", "user_agent": ""}],
     "id": 5
   },
   {
@@ -62,7 +62,7 @@
     "country_code": "BD",
     "country_name": "Bangladesh",
     "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"}],
+    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8", "cookie": "", "user_agent": ""}],
     "id": 6
   },
   {
@@ -73,7 +73,7 @@
     "country_code": "BD",
     "country_name": "Bangladesh",
     "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"}],
+    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8", "cookie": "", "user_agent": ""}],
     "id": 7
   },
   {
