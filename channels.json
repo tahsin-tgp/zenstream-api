@@ -1,1168 +1,1922 @@
 [
   {
     "name": "BTV",
-    "logo_url": "https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",
-    "category": "Bangla",
-    "sub_category": "National",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8", "cookie": "", "user_agent": ""}],
-    "id": 1
-  },
-  {
-    "name": "Sangsad TV",
-    "logo_url": "https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",
-    "category": "Bangla",
-    "sub_category": "National",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8", "cookie": "", "user_agent": ""}],
-    "id": 2
-  },
-  {
-    "name": "SOMOY TV",
-    "logo_url": "https://images.seeklogo.com/logo-png/53/2/somoy-tv-logo-png_seeklogo-536972.png",
-    "category": "News",
-    "sub_category": "Bangla News",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1", "cookie": "", "user_agent": ""}, {"name": "Server 2", "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8", "cookie": "", "user_agent": ""}],
-    "id": 3
-  },
-  {
-    "name": "Ekattor TV",
-    "logo_url": "https://s4.gifyu.com/images/imagea02f4314e761661d.png",
-    "category": "News",
-    "sub_category": "Bangla News",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8", "cookie": "", "user_agent": ""}, {"name": "Server 2", "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=/ekattor_tv", "cookie": "", "user_agent": ""}],
-    "id": 4
-  },
-  {
-    "name": "Channel-1",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Channel_1_Logo_Bangladesh.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8", "cookie": "", "user_agent": ""}],
-    "id": 5
-  },
-  {
-    "name": "Channel 24",
-    "logo_url": "https://www.lyngsat.com/logo/tv/cc/channel24_bd.png",
-    "category": "News",
-    "sub_category": "Bangla News",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8", "cookie": "", "user_agent": ""}],
-    "id": 6
-  },
-  {
-    "name": "INDEPENDENT TV",
-    "logo_url": "https://www.lyngsat.com/logo/tv/ii/independent_tv.png",
-    "category": "News",
-    "sub_category": "Bangla News",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8", "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1784817225:KeyName=prod_linear:Signature=qdpzbOzlZ-rEFLT83astdYwU57Cgpdm4o-e0yerm2BLM_rd4TJ5MJam0HLDr3gVKa71Y0iC1cUYVBfQEKMktBA", "user_agent": "okhttp/4.11.0"}],
-    "id": 7
-  },
-  {
-    "name": "JAMUNA TV",
-    "logo_url": "https://www.lyngsat.com/logo/tv/jj/jamuna_tv_bd.png",
-    "category": "News",
-    "sub_category": "Bangla News",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"}],
-    "id": 8
-  },
-  {
-    "name": "Star News",
-    "logo_url": "https://www.lyngsat.com/logo/tv/ss/star-news-bd.png",
-    "category": "News",
-    "sub_category": "Hindi News",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8"}],
-    "id": 9
-  },
-  {
-    "name": "NEWS 24",
-    "logo_url": "https://media.licdn.com/dms/image/v2/D4E3DAQEcNnzxyDqE6w/image-scale_191_1128/image-scale_191_1128/0/1693319306963/news24bdtv_cover?e=2147483647&v=beta&t=KgauG41cT_WCknUxkpe7lMTCHqmo9oMdW6rTWS5G_FU",
-    "category": "News",
-    "sub_category": "Bangla News",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8"}],
-    "id": 10
-  },
-  {
-    "name": "DBC News",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",
-    "category": "News",
-    "sub_category": "Bangla News",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8"}],
-    "id": 11
-  },
-  {
-    "name": "Ekhon tv",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Ekhon_Logo.svg/1280px-Ekhon_Logo.svg.png",
-    "category": "News",
-    "sub_category": "Bangla News",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8"}],
-    "id": 12
-  },
-  {
-    "name": "ATN NEWS",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1280px-ATN_News_logo.svg.png",
-    "category": "News",
-    "sub_category": "Bangla News",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"}],
-    "id": 13
-  },
-  {
-    "name": "NTV",
-    "logo_url": "https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"}],
-    "id": 14
-  },
-  {
-    "name": "RTV",
-    "logo_url": "https://s4.gifyu.com/images/image29282f9d45a183d6.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8"}],
-    "id": 15
-  },
-  {
-    "name": "Banglavision",
-    "logo_url": "https://s4.gifyu.com/images/image5c0bfa6b281be803.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"}],
-    "id": 16
-  },
-  {
-    "name": "SATV",
-    "logo_url": "https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8"}],
-    "id": 17
-  },
-  {
-    "name": "BOISHAKHI TV",
-    "logo_url": "https://www.lyngsat.com/logo/tv/bb/boishakhi.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"}],
-    "id": 18
-  },
-  {
-    "name": "Ekushey TV",
-    "logo_url": "https://s4.gifyu.com/images/image534fa27d7683f33d.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"}],
-    "id": 19
-  },
-  {
-    "name": "Channel I",
-    "logo_url": "https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"}],
-    "id": 20
-  },
-  {
-    "name": "Deepto TV",
-    "logo_url": "https://images.seeklogo.com/logo-png/51/2/deepto-tv-logo-png_seeklogo-513994.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"}],
-    "id": 21
-  },
-  {
-    "name": "Maasranga Tv",
-    "logo_url": "https://mail.maasranga.tv/public/customize/newImage/logo.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"}],
-    "id": 22
-  },
-  {
-    "name": "Channel 9",
-    "logo_url": "https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8"}],
-    "id": 23
-  },
-  {
-    "name": "GAZI TV",
-    "logo_url": "https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8"}],
-    "id": 24
-  },
-  {
-    "name": "Desh TV",
-    "logo_url": "https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1/mono.m3u8"}],
-    "id": 25
-  },
-  {
-    "name": "Mohona Tv",
-    "logo_url": "https://www.lyngsat.com/logo/tv/mm/mohona-tv-bd.svg",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8"}],
-    "id": 26
-  },
-  {
-    "name": "SRK TV",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8"}],
-    "id": 27
-  },
-  {
-    "name": "Green tv",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8"}],
-    "id": 28
-  },
-  {
-    "name": "Asian TV",
-    "logo_url": "https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://mtlivestream.com/hls/asian/ytlive/index.m3u8"}],
-    "id": 29
-  },
-  {
-    "name": "Al Jazeera",
-    "logo_url": "https://pluspng.com/img-png/al-jazeera-logo-png-al-jazeera-logo-1431.png",
-    "category": "International News",
-    "sub_category": "English",
-    "country_code": "QA",
-    "country_name": "Qatar",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8"}],
-    "id": 33
-  },
-  {
-    "name": "BBC News",
-    "logo_url": "https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png",
-    "category": "International News",
-    "sub_category": "English",
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15"}],
-    "id": 34
-  },
-  {
-    "name": "CNN",
-    "logo_url": "https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png",
-    "category": "International News",
-    "sub_category": "English",
-    "country_code": "US",
-    "country_name": "United States",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8"}],
-    "id": 35
-  },
-  {
-    "name": "DW",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",
-    "category": "International News",
-    "sub_category": "English",
-    "country_code": "DE",
-    "country_name": "Germany",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"}],
-    "id": 36
-  },
-  {
-    "name": "Iran International",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/960px-Iran_International.svg.png",
-    "category": "International News",
-    "sub_category": "English",
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8"}],
-    "id": 37
-  },
-  {
-    "name": "NHK World",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/3840px-NHK_World.svg.png",
-    "category": "International News",
-    "sub_category": "English",
-    "country_code": "JP",
-    "country_name": "Japan",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "http://103.175.73.12:8080/live/417/417_0.m3u8"}],
-    "id": 38
-  },
-  {
-    "name": "CGTN News",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/CGTN.svg",
-    "category": "International News",
-    "sub_category": "English",
-    "country_code": "CN",
-    "country_name": "China",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8"}],
-    "id": 39
-  },
-  {
-    "name": "France 24",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/250px-France_24_logo_%282013%29.svg.png",
-    "category": "International News",
-    "sub_category": "English",
-    "country_code": "FR",
-    "country_name": "France",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8"}],
-    "id": 40
-  },
-  {
-    "name": "Sky News",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sky_News_2020.svg/320px-Sky_News_2020.svg.png",
-    "category": "International News",
-    "sub_category": "English",
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8"}],
-    "id": 41
-  },
-  {
-    "name": "CNA News",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CNA_logo.svg/320px-CNA_logo.svg.png",
-    "category": "International News",
-    "sub_category": "English",
-    "country_code": "SG",
-    "country_name": "Singapore",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"}],
-    "id": 42
-  },
-  {
-    "name": "Saudi Quran",
-    "logo_url": "https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",
-    "category": "Religious",
-    "sub_category": "Islamic",
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8"}],
-    "id": 43
-  },
-  {
-    "name": "Madina live",
-    "logo_url": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",
-    "category": "Religious",
-    "sub_category": "Islamic",
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"}],
-    "id": 44
-  },
-  {
-    "name": "Peace tv Bangla",
-    "logo_url": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",
-    "category": "Religious",
-    "sub_category": "Islamic",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ"}],
-    "id": 45
-  },
-  {
-    "name": "Islamic TV",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Islamic_TV_logo.svg/320px-Islamic_TV_logo.svg.png",
-    "category": "Religious",
-    "sub_category": "Islamic",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724.m3u8"}],
-    "id": 47
-  },
-  {
-    "name": "BuddyStar",
-    "logo_url": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png",
-    "category": "Kids",
-    "sub_category": "Cartoon",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8"}],
-    "id": 48
-  },
-  {
-    "name": "Joy",
-    "logo_url": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png",
-    "category": "Kids",
-    "sub_category": "Cartoon",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8"}],
-    "id": 49
-  },
-  {
-    "name": "Funny Junior",
-    "logo_url": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png",
-    "category": "Kids",
-    "sub_category": "Cartoon",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8"}],
-    "id": 50
-  },
-  {
-    "name": "Smarty",
-    "logo_url": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",
-    "category": "Kids",
-    "sub_category": "Cartoon",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8"}],
-    "id": 51
-  },
-  {
-    "name": "BBC Cbeebies",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/CBeebies_logo.svg/320px-CBeebies_logo.svg.png",
-    "category": "Kids",
-    "sub_category": "Cartoon",
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8"}],
-    "id": 55
-  },
-  {
-    "name": "PBS Kids",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/PBS_Kids_logo_2022.svg/320px-PBS_Kids_logo_2022.svg.png",
-    "category": "Kids",
-    "sub_category": "Cartoon",
-    "country_code": "US",
-    "country_name": "United States",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"}],
-    "id": 56
-  },
-  {
-    "name": "Rongeen TV",
-    "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Rongeen-Logo--without-BG_2000_X_1125.png",
-    "category": "Kids",
-    "sub_category": "Cartoon",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8"}],
-    "id": 57
-  },
-  {
-    "name": "Baby Shark TV",
-    "logo_url": "https://static.wikia.nocookie.net/logopedia/images/c/c7/Pinkfong_Baby_Shark.svg",
-    "category": "Kids",
-    "sub_category": "Cartoon",
-    "country_code": "US",
-    "country_name": "United States",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8"}],
-    "id": 59
-  },
-  {
-    "name": "Lego Channel",
-    "logo_url": "https://i.imgur.com/xePwW13.png",
-    "category": "Kids",
-    "sub_category": "Cartoon",
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://dltiqboxjw21d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evri8jwgwmxus/index.m3u8"}],
-    "id": 63
-  },
-  {
-    "name": "LooLoo Kids TV",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/LooLoo_Kids_logo.svg/320px-LooLoo_Kids_logo.svg.png",
-    "category": "Kids",
-    "sub_category": "Cartoon",
-    "country_code": "RO",
-    "country_name": "Romania",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8"}],
-    "id": 64
-  },
-  {
-    "name": "Mattel Jr.",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mattel_logo.svg/320px-Mattel_logo.svg.png",
-    "category": "Kids",
-    "sub_category": "Cartoon",
-    "country_code": "US",
-    "country_name": "United States",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://dc6v647pwrp79.cloudfront.net/matjr.m3u8"}],
-    "id": 65
-  },
-  {
-    "name": "Nickelodeon",
-    "logo_url": "https://static.wikia.nocookie.net/logopedia/images/0/0b/Nick_Jr_%28formerly_Noggin%29_New_Logo.jpg",
-    "category": "Kids",
-    "sub_category": "Cartoon",
-    "country_code": "US",
-    "country_name": "United States",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8"}],
-    "id": 93
-  },
-  {
-    "name": "Discovery Bangla",
-    "logo_url": "https://bdiptv.stream/uploads/tv_image/discovery.png",
-    "category": "Documentary & Infotainment",
-    "sub_category": "Science & Nature",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "http://103.180.212.191:3500/live/573.m3u8"}],
-    "id": 122
-  },
-  {
-    "name": "Discovery Hindi",
-    "logo_url": "https://bdiptv.stream/uploads/tv_image/discovery.png",
-    "category": "Documentary & Infotainment",
-    "sub_category": "Science & Nature",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "http://202.70.146.135:8000/play/a05z/index.m3u8"}],
-    "id": 123
-  },
-  {
-    "name": "NAT GEO",
-    "logo_url": "https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png",
-    "category": "Documentary & Infotainment",
-    "sub_category": "Science & Nature",
-    "country_code": "US",
-    "country_name": "United States",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "http://202.70.146.135:8000/play/a05o/index.m3u8"}],
-    "id": 125
-  },
-  {
-    "name": "BBC Earth",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",
-    "category": "Documentary & Infotainment",
-    "sub_category": "Science & Nature",
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8"}],
-    "id": 128
-  },
-  {
-    "name": "Animal Planet",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png",
-    "category": "Documentary & Infotainment",
-    "sub_category": "Science & Nature",
-    "country_code": "US",
-    "country_name": "United States",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8"}],
-    "id": 129
-  },
-  {
-    "name": "Star Jalsha",
-    "logo_url": "https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350",
-    "category": "Indian Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8"}],
-    "id": 132
-  },
-  {
-    "name": "Zee Bangla",
-    "logo_url": "https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg",
-    "category": "Indian Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8"}],
-    "id": 133
-  },
-  {
-    "name": "Colors Bangla",
-    "logo_url": "https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg",
-    "category": "Indian Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts="}],
-    "id": 135
-  },
-  {
-    "name": "Republic Bangla",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Republic_Bangla_Logo.svg/320px-Republic_Bangla_Logo.svg.png",
-    "category": "Indian Bangla",
-    "sub_category": "News",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8"}],
-    "id": 140
-  },
-  {
-    "name": "News18 Bangla News",
-    "logo_url": "https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png",
-    "category": "Indian Bangla",
-    "sub_category": "News",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8"}],
-    "id": 141
-  },
-  {
-    "name": "TV9 Bangla",
-    "logo_url": "https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png",
-    "category": "Indian Bangla",
-    "sub_category": "News",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8"}],
-    "id": 142
-  },
-  {
-    "name": "ATN Music",
-    "logo_url": "https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg",
-    "category": "Music",
-    "sub_category": "Bangla Music",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"}],
-    "id": 146
-  },
-  {
-    "name": "Sangeet Bangla",
-    "logo_url": "https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515",
-    "category": "Music",
-    "sub_category": "Bangla Music",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8"}],
-    "id": 148
-  },
-  {
-    "name": "B4U Music",
-    "logo_url": "https://seeklogo.com/images/B/b4u-music-logo-12FA930444-seeklogo.com.png",
-    "category": "Music",
-    "sub_category": "Hindi Music",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://cdn-2.pishow.tv/live/415/master.m3u8"}],
-    "id": 153
-  },
-  {
-    "name": "T-Sports",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
-    "category": "Sports",
-    "sub_category": "Live Sports",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1"}],
-    "id": 186
-  },
-  {
-    "name": "Star Sports 1",
-    "logo_url": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",
-    "category": "Sports",
-    "sub_category": "Live Sports",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "http://41.205.93.154/STARSPORTS1/index.m3u8"}],
-    "id": 281
-  },
-  {
-    "name": "FOX Cricket 501",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",
-    "category": "Sports",
-    "sub_category": "Live Sports",
-    "country_code": "AU",
-    "country_name": "Australia",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8"}],
-    "id": 188
-  },
-  {
-    "name": "Sky Sports Cricket",
-    "logo_url": "https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png",
-    "category": "Sports",
-    "sub_category": "Live Sports",
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8"}],
-    "id": 189
-  },
-  {
-    "name": "DD Sports",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/DD_Sports_logo.svg/320px-DD_Sports_logo.svg.png",
-    "category": "Sports",
-    "sub_category": "Live Sports",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"}],
-    "id": 191
-  },
-  {
-    "name": "Radio Bangla Net",
-    "logo_url": "https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png",
-    "category": "Radio",
-    "sub_category": "FM",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC"}],
-    "id": 194
-  },
-  {
-    "name": "BBC Bangla",
-    "logo_url": "https://cdn.instant.audio/images/logos/radio-bd-com/bbc-bangla.png",
-    "category": "Radio",
-    "sub_category": "FM",
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd"}],
-    "id": 195
-  },
-  {
-    "name": "Bangladesh Betar",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwB7VrdMk9Dcmw5OWzADyfTfHEECFheXfQRg&s",
-    "category": "Radio",
-    "sub_category": "FM",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream/1/"}],
-    "id": 197
-  },
-  {
-    "name": "Spice FM",
-    "logo_url": "https://spicefmbd.com/logospice.png",
-    "category": "Radio",
-    "sub_category": "FM",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://stream.spicefmbd.com/stream.m3u8"}],
-    "id": 198
-  },
-  {
-    "name": "ATN Bangla UK",
-    "logo_url": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8"}],
-    "id": 204
-  },
-  {
-    "name": "Ananda TV",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_of_Ananda_TV.svg/150px-Logo_of_Ananda_TV.svg.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8"}],
-    "id": 345
-  },
-  {
-    "name": "My TV",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/My_TV_Logo.svg/177px-My_TV_Logo.svg.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8"}],
-    "id": 346
-  },
-  {
-    "name": "Channel S",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Channel_S_Official_LOGO.png/307px-Channel_S_Official_LOGO.png",
-    "category": "Bangla",
-    "sub_category": "Entertainment",
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8"}],
-    "id": 347
-  },
-  {
-    "name": "Al QURAN",
-    "logo_url": "https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3",
-    "category": "Religious",
-    "sub_category": "Islamic",
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"}],
-    "id": 362
-  },
-  {
-    "name": "AL EKHBARIA",
-    "logo_url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
-    "category": "International News",
-    "sub_category": "Arabic",
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8"}],
-    "id": 364
-  },
-  {
-    "name": "DW NEWS",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Deutsche_Welle_logo_2012.svg/320px-Deutsche_Welle_logo_2012.svg.png",
-    "category": "International News",
-    "sub_category": "English",
-    "country_code": "DE",
-    "country_name": "Germany",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8"}],
-    "id": 376
-  },
-  {
-    "name": "CNN (US)",
-    "logo_url": "https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png",
-    "category": "International News",
-    "sub_category": "English",
-    "country_code": "US",
-    "country_name": "United States",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"}],
-    "id": 378
-  },
-  {
-    "name": "NDTV NEWS",
-    "logo_url": "https://logodix.com/logo/2131933.jpg",
-    "category": "International News",
-    "sub_category": "English",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8"}],
-    "id": 382
-  },
-  {
-    "name": "RTNEWS GLOBAL",
-    "logo_url": "https://static.wikia.nocookie.net/logopedia/images/6/62/RT_Flat.svg",
-    "category": "International News",
-    "sub_category": "English",
-    "country_code": "RU",
-    "country_name": "Russia",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1"}],
-    "id": 385
-  },
-  {
-    "name": "TRT WORLD",
-    "logo_url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
-    "category": "International News",
-    "sub_category": "English",
-    "country_code": "TR",
-    "country_name": "Turkey",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"}],
-    "id": 390
-  },
-  {
-    "name": "Kolkata TV",
-    "logo_url": "https://assets.calcuttatelevisionnetwork.in/cn.png",
-    "category": "Indian Bangla",
-    "sub_category": "News",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8"}],
-    "id": 415
-  },
-  {
-    "name": "ABP Ananda",
-    "logo_url": "https://i.postimg.cc/t7Gn9VtZ/abpananda.png",
-    "category": "Indian Bangla",
-    "sub_category": "News",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8"}],
-    "id": 416
-  },
-  {
-    "name": "Dangal TV",
-    "logo_url": "https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png",
-    "category": "Indian TV",
-    "sub_category": "Entertainment",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8"}],
-    "id": 469
-  },
-  {
-    "name": "DD National",
-    "logo_url": "https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png",
-    "category": "Indian TV",
-    "sub_category": "Entertainment",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8"}],
-    "id": 472
-  },
-  {
-    "name": "Aaj Tak",
-    "logo_url": "https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png",
-    "category": "Indian TV",
-    "sub_category": "News",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"}],
-    "id": 474
-  },
-  {
-    "name": "India TV",
-    "logo_url": "https://static.wikia.nocookie.net/logopedia/images/1/10/India_TV_Orange.jpg",
-    "category": "Indian TV",
-    "sub_category": "News",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8"}],
-    "id": 477
-  },
-  {
-    "name": "Republic TV",
-    "logo_url": "https://static.wikia.nocookie.net/logopedia/images/f/fe/Republic-logo2.svg",
-    "category": "Indian TV",
-    "sub_category": "News",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8"}],
-    "id": 481
-  },
-  {
-    "name": "Sony MAX",
-    "logo_url": "https://otapp.store/uploads/tv_image/sm/sony-max-hd.png",
-    "category": "Indian TV",
-    "sub_category": "Entertainment",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247"}],
-    "id": 496
-  },
-  {
-    "name": "Star Plus",
-    "logo_url": "https://otapp.store/uploads/tv_image/sm/star-plus.png",
-    "category": "Indian TV",
-    "sub_category": "Entertainment",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "http://book4u.top/royr/index.php?id=StarPlusIN"}],
-    "id": 504
-  },
-  {
-    "name": "Hum TV",
-    "logo_url": "https://otapp.store/uploads/tv_image/sm/hum-tv.png",
-    "category": "Entertainment",
-    "sub_category": "Drama",
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://backuptof.rustimfahum.workers.dev/media.m3u8?id=7c21a6364fde"}],
-    "id": 505
-  },
-  {
-    "name": "Sony SAB",
-    "logo_url": "https://otapp.store/uploads/tv_image/sm/sony-sab-hd.png",
-    "category": "Indian TV",
-    "sub_category": "Entertainment",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://book4u.top/worker/index.php?path=api/f10c3b5c0e/playlist.m3u8"}],
-    "id": 523
-  },
-  {
-    "name": "Eurosport",
-    "logo_url": "https://otapp.store/uploads/tv_image/sm/eurosport.png",
-    "category": "Sports",
-    "sub_category": "Live Sports",
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://book4u.top/worker/index.php?path=api/ef22d71b0e/playlist.m3u8"}],
-    "id": 538
-  },
-  {
-    "name": "TNT Sport 1",
-    "logo_url": "https://otapp.store/uploads/tv_image/sm/tnt-sport-1.png",
-    "category": "Sports",
-    "sub_category": "Live Sports",
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://earnvid.assadikb.workers.dev/?id=bbtsp1"}],
-    "id": 540
-  },
-  {
-    "name": "PTV Sports",
-    "logo_url": "https://otapp.store/uploads/tv_image/sm/ptv-sports.png",
-    "category": "Sports",
-    "sub_category": "Live Sports",
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://earnvid.assadikb.workers.dev/?id=ptvpk"}],
-    "id": 541
-  },
-  {
-    "name": "Cartoon Network Hindi",
-    "logo_url": "https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png",
-    "category": "Kids",
-    "sub_category": "Cartoon",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://book4u.top/worker/index.php?path=api/68b0f4e13e/playlist.m3u8"}],
-    "id": 550
-  },
-  {
-    "name": "Pogo Hindi",
-    "logo_url": "https://otapp.store/uploads/tv_image/sm/pogo-hindi.png",
-    "category": "Kids",
-    "sub_category": "Cartoon",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://book4u.top/worker/index.php?path=api/d2586d604e/playlist.m3u8"}],
-    "id": 552
-  },
-  {
-    "name": "MTV India",
-    "logo_url": "https://otapp.store/uploads/tv_image/sm/mtv-india.png",
-    "category": "Music",
-    "sub_category": "Hindi Music",
-    "country_code": "IN",
-    "country_name": "India",
-    "label": "",
-    "servers": [{"name": "Server 1", "url": "https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8"}],
-    "id": 563
-  }
+      "logo_url": "https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",
+      "category": "Bangla",
+      "sub_category": "National",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Sangsad TV",
+      "logo_url": "https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",
+      "category": "Bangla",
+      "sub_category": "National",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "SOMOY TV",
+      "logo_url": "https://images.seeklogo.com/logo-png/53/2/somoy-tv-logo-png_seeklogo-536972.png",
+      "category": "News",
+      "sub_category": "Bangla News",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
+          "cookie": "",
+          "user_agent": ""
+        },
+        {
+          "name": "Server 2",
+          "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Ekattor TV",
+      "logo_url": "https://s4.gifyu.com/images/imagea02f4314e761661d.png",
+      "category": "News",
+      "sub_category": "Bangla News",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        },
+        {
+          "name": "Server 2",
+          "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=/ekattor_tv",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Channel-1",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Channel_1_Logo_Bangladesh.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Channel 24",
+      "logo_url": "https://www.lyngsat.com/logo/tv/cc/channel24_bd.png",
+      "category": "News",
+      "sub_category": "Bangla News",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "INDEPENDENT TV",
+      "logo_url": "https://www.lyngsat.com/logo/tv/ii/independent_tv.png",
+      "category": "News",
+      "sub_category": "Bangla News",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "JAMUNA TV",
+      "logo_url": "https://www.lyngsat.com/logo/tv/jj/jamuna_tv_bd.png",
+      "category": "News",
+      "sub_category": "Bangla News",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "Star News",
+      "logo_url": "https://www.lyngsat.com/logo/tv/ss/star-news-bd.png",
+      "category": "News",
+      "sub_category": "Hindi News",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 9
+    },
+    {
+      "name": "NEWS 24",
+      "logo_url": "https://media.licdn.com/dms/image/v2/D4E3DAQEcNnzxyDqE6w/image-scale_191_1128/image-scale_191_1128/0/1693319306963/news24bdtv_cover?e=2147483647&v=beta&t=KgauG41cT_WCknUxkpe7lMTCHqmo9oMdW6rTWS5G_FU",
+      "category": "News",
+      "sub_category": "Bangla News",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 10
+    },
+    {
+      "name": "DBC News",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",
+      "category": "News",
+      "sub_category": "Bangla News",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 11
+    },
+    {
+      "name": "Ekhon tv",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Ekhon_Logo.svg/1280px-Ekhon_Logo.svg.png",
+      "category": "News",
+      "sub_category": "Bangla News",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 12
+    },
+    {
+      "name": "ATN NEWS",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1280px-ATN_News_logo.svg.png",
+      "category": "News",
+      "sub_category": "Bangla News",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 13
+    },
+    {
+      "name": "NTV",
+      "logo_url": "https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 14
+    },
+    {
+      "name": "RTV",
+      "logo_url": "https://s4.gifyu.com/images/image29282f9d45a183d6.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 15
+    },
+    {
+      "name": "Banglavision",
+      "logo_url": "https://s4.gifyu.com/images/image5c0bfa6b281be803.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 16
+    },
+    {
+      "name": "SATV",
+      "logo_url": "https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 17
+    },
+    {
+      "name": "BOISHAKHI TV",
+      "logo_url": "https://www.lyngsat.com/logo/tv/bb/boishakhi.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 18
+    },
+    {
+      "name": "Ekushey TV",
+      "logo_url": "https://s4.gifyu.com/images/image534fa27d7683f33d.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 19
+    },
+    {
+      "name": "Channel I",
+      "logo_url": "https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 20
+    },
+    {
+      "name": "Deepto TV",
+      "logo_url": "https://images.seeklogo.com/logo-png/51/2/deepto-tv-logo-png_seeklogo-513994.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 21
+    },
+    {
+      "name": "Maasranga Tv",
+      "logo_url": "https://mail.maasranga.tv/public/customize/newImage/logo.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 22
+    },
+    {
+      "name": "Channel 9",
+      "logo_url": "https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 23
+    },
+    {
+      "name": "GAZI TV",
+      "logo_url": "https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 24
+    },
+    {
+      "name": "Desh TV",
+      "logo_url": "https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1/mono.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 25
+    },
+    {
+      "name": "Mohona Tv",
+      "logo_url": "https://www.lyngsat.com/logo/tv/mm/mohona-tv-bd.svg",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 26
+    },
+    {
+      "name": "SRK TV",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 27
+    },
+    {
+      "name": "Green tv",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 28
+    },
+    {
+      "name": "Asian TV",
+      "logo_url": "https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://mtlivestream.com/hls/asian/ytlive/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 29
+    },
+    {
+      "name": "Al Jazeera",
+      "logo_url": "https://pluspng.com/img-png/al-jazeera-logo-png-al-jazeera-logo-1431.png",
+      "category": "International News",
+      "sub_category": "English",
+      "country_code": "QA",
+      "country_name": "Qatar",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 33
+    },
+    {
+      "name": "BBC News",
+      "logo_url": "https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png",
+      "category": "International News",
+      "sub_category": "English",
+      "country_code": "UK",
+      "country_name": "United Kingdom",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 34
+    },
+    {
+      "name": "CNN",
+      "logo_url": "https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png",
+      "category": "International News",
+      "sub_category": "English",
+      "country_code": "US",
+      "country_name": "United States",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 35
+    },
+    {
+      "name": "DW",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",
+      "category": "International News",
+      "sub_category": "English",
+      "country_code": "DE",
+      "country_name": "Germany",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 36
+    },
+    {
+      "name": "Iran International",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/960px-Iran_International.svg.png",
+      "category": "International News",
+      "sub_category": "English",
+      "country_code": "UK",
+      "country_name": "United Kingdom",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 37
+    },
+    {
+      "name": "NHK World",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/3840px-NHK_World.svg.png",
+      "category": "International News",
+      "sub_category": "English",
+      "country_code": "JP",
+      "country_name": "Japan",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "http://103.175.73.12:8080/live/417/417_0.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 38
+    },
+    {
+      "name": "CGTN News",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/CGTN.svg",
+      "category": "International News",
+      "sub_category": "English",
+      "country_code": "CN",
+      "country_name": "China",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 39
+    },
+    {
+      "name": "France 24",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/250px-France_24_logo_%282013%29.svg.png",
+      "category": "International News",
+      "sub_category": "English",
+      "country_code": "FR",
+      "country_name": "France",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 40
+    },
+    {
+      "name": "Sky News",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sky_News_2020.svg/320px-Sky_News_2020.svg.png",
+      "category": "International News",
+      "sub_category": "English",
+      "country_code": "UK",
+      "country_name": "United Kingdom",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 41
+    },
+    {
+      "name": "CNA News",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CNA_logo.svg/320px-CNA_logo.svg.png",
+      "category": "International News",
+      "sub_category": "English",
+      "country_code": "SG",
+      "country_name": "Singapore",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 42
+    },
+    {
+      "name": "Saudi Quran",
+      "logo_url": "https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",
+      "category": "Religious",
+      "sub_category": "Islamic",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 43
+    },
+    {
+      "name": "Madina live",
+      "logo_url": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",
+      "category": "Religious",
+      "sub_category": "Islamic",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 44
+    },
+    {
+      "name": "Peace tv Bangla",
+      "logo_url": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",
+      "category": "Religious",
+      "sub_category": "Islamic",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 45
+    },
+    {
+      "name": "Islamic TV",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Islamic_TV_logo.svg/320px-Islamic_TV_logo.svg.png",
+      "category": "Religious",
+      "sub_category": "Islamic",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 47
+    },
+    {
+      "name": "BuddyStar",
+      "logo_url": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png",
+      "category": "Kids",
+      "sub_category": "Cartoon",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 48
+    },
+    {
+      "name": "Joy",
+      "logo_url": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png",
+      "category": "Kids",
+      "sub_category": "Cartoon",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 49
+    },
+    {
+      "name": "Funny Junior",
+      "logo_url": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png",
+      "category": "Kids",
+      "sub_category": "Cartoon",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 50
+    },
+    {
+      "name": "Smarty",
+      "logo_url": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",
+      "category": "Kids",
+      "sub_category": "Cartoon",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 51
+    },
+    {
+      "name": "BBC Cbeebies",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/CBeebies_logo.svg/320px-CBeebies_logo.svg.png",
+      "category": "Kids",
+      "sub_category": "Cartoon",
+      "country_code": "UK",
+      "country_name": "United Kingdom",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 55
+    },
+    {
+      "name": "PBS Kids",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/PBS_Kids_logo_2022.svg/320px-PBS_Kids_logo_2022.svg.png",
+      "category": "Kids",
+      "sub_category": "Cartoon",
+      "country_code": "US",
+      "country_name": "United States",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 56
+    },
+    {
+      "name": "Rongeen TV",
+      "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Rongeen-Logo--without-BG_2000_X_1125.png",
+      "category": "Kids",
+      "sub_category": "Cartoon",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 57
+    },
+    {
+      "name": "Baby Shark TV",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/c/c7/Pinkfong_Baby_Shark.svg",
+      "category": "Kids",
+      "sub_category": "Cartoon",
+      "country_code": "US",
+      "country_name": "United States",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 59
+    },
+    {
+      "name": "Lego Channel",
+      "logo_url": "https://i.imgur.com/xePwW13.png",
+      "category": "Kids",
+      "sub_category": "Cartoon",
+      "country_code": "UK",
+      "country_name": "United Kingdom",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://dltiqboxjw21d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evri8jwgwmxus/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 63
+    },
+    {
+      "name": "LooLoo Kids TV",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/LooLoo_Kids_logo.svg/320px-LooLoo_Kids_logo.svg.png",
+      "category": "Kids",
+      "sub_category": "Cartoon",
+      "country_code": "RO",
+      "country_name": "Romania",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 64
+    },
+    {
+      "name": "Mattel Jr.",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mattel_logo.svg/320px-Mattel_logo.svg.png",
+      "category": "Kids",
+      "sub_category": "Cartoon",
+      "country_code": "US",
+      "country_name": "United States",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://dc6v647pwrp79.cloudfront.net/matjr.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 65
+    },
+    {
+      "name": "Nickelodeon",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/0/0b/Nick_Jr_%28formerly_Noggin%29_New_Logo.jpg",
+      "category": "Kids",
+      "sub_category": "Cartoon",
+      "country_code": "US",
+      "country_name": "United States",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 93
+    },
+    {
+      "name": "Discovery Bangla",
+      "logo_url": "https://bdiptv.stream/uploads/tv_image/discovery.png",
+      "category": "Documentary & Infotainment",
+      "sub_category": "Science & Nature",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "http://103.180.212.191:3500/live/573.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 122
+    },
+    {
+      "name": "Discovery Hindi",
+      "logo_url": "https://bdiptv.stream/uploads/tv_image/discovery.png",
+      "category": "Documentary & Infotainment",
+      "sub_category": "Science & Nature",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "http://202.70.146.135:8000/play/a05z/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 123
+    },
+    {
+      "name": "NAT GEO",
+      "logo_url": "https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png",
+      "category": "Documentary & Infotainment",
+      "sub_category": "Science & Nature",
+      "country_code": "US",
+      "country_name": "United States",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "http://202.70.146.135:8000/play/a05o/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 125
+    },
+    {
+      "name": "BBC Earth",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",
+      "category": "Documentary & Infotainment",
+      "sub_category": "Science & Nature",
+      "country_code": "UK",
+      "country_name": "United Kingdom",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 128
+    },
+    {
+      "name": "Animal Planet",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png",
+      "category": "Documentary & Infotainment",
+      "sub_category": "Science & Nature",
+      "country_code": "US",
+      "country_name": "United States",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 129
+    },
+    {
+      "name": "Star Jalsha",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350",
+      "category": "Indian Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 132
+    },
+    {
+      "name": "Zee Bangla",
+      "logo_url": "https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg",
+      "category": "Indian Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 133
+    },
+    {
+      "name": "Colors Bangla",
+      "logo_url": "https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg",
+      "category": "Indian Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 135
+    },
+    {
+      "name": "Republic Bangla",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Republic_Bangla_Logo.svg/320px-Republic_Bangla_Logo.svg.png",
+      "category": "Indian Bangla",
+      "sub_category": "News",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 140
+    },
+    {
+      "name": "News18 Bangla News",
+      "logo_url": "https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png",
+      "category": "Indian Bangla",
+      "sub_category": "News",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 141
+    },
+    {
+      "name": "TV9 Bangla",
+      "logo_url": "https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png",
+      "category": "Indian Bangla",
+      "sub_category": "News",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 142
+    },
+    {
+      "name": "ATN Music",
+      "logo_url": "https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg",
+      "category": "Music",
+      "sub_category": "Bangla Music",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 146
+    },
+    {
+      "name": "Sangeet Bangla",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515",
+      "category": "Music",
+      "sub_category": "Bangla Music",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 148
+    },
+    {
+      "name": "B4U Music",
+      "logo_url": "https://seeklogo.com/images/B/b4u-music-logo-12FA930444-seeklogo.com.png",
+      "category": "Music",
+      "sub_category": "Hindi Music",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://cdn-2.pishow.tv/live/415/master.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 153
+    },
+    {
+      "name": "T-Sports",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
+      "category": "Sports",
+      "sub_category": "Live Sports",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 186
+    },
+    {
+      "name": "Star Sports 1",
+      "logo_url": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",
+      "category": "Sports",
+      "sub_category": "Live Sports",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 281
+    },
+    {
+      "name": "FOX Cricket 501",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",
+      "category": "Sports",
+      "sub_category": "Live Sports",
+      "country_code": "AU",
+      "country_name": "Australia",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 188
+    },
+    {
+      "name": "Sky Sports Cricket",
+      "logo_url": "https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png",
+      "category": "Sports",
+      "sub_category": "Live Sports",
+      "country_code": "UK",
+      "country_name": "United Kingdom",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 189
+    },
+    {
+      "name": "DD Sports",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/DD_Sports_logo.svg/320px-DD_Sports_logo.svg.png",
+      "category": "Sports",
+      "sub_category": "Live Sports",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 191
+    },
+    {
+      "name": "Radio Bangla Net",
+      "logo_url": "https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png",
+      "category": "Radio",
+      "sub_category": "FM",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 194
+    },
+    {
+      "name": "BBC Bangla",
+      "logo_url": "https://cdn.instant.audio/images/logos/radio-bd-com/bbc-bangla.png",
+      "category": "Radio",
+      "sub_category": "FM",
+      "country_code": "UK",
+      "country_name": "United Kingdom",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 195
+    },
+    {
+      "name": "Bangladesh Betar",
+      "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwB7VrdMk9Dcmw5OWzADyfTfHEECFheXfQRg&s",
+      "category": "Radio",
+      "sub_category": "FM",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream/1/",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 197
+    },
+    {
+      "name": "Spice FM",
+      "logo_url": "https://spicefmbd.com/logospice.png",
+      "category": "Radio",
+      "sub_category": "FM",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://stream.spicefmbd.com/stream.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 198
+    },
+    {
+      "name": "ATN Bangla UK",
+      "logo_url": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "UK",
+      "country_name": "United Kingdom",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 204
+    },
+    {
+      "name": "Ananda TV",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_of_Ananda_TV.svg/150px-Logo_of_Ananda_TV.svg.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 345
+    },
+    {
+      "name": "My TV",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/My_TV_Logo.svg/177px-My_TV_Logo.svg.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 346
+    },
+    {
+      "name": "Channel S",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Channel_S_Official_LOGO.png/307px-Channel_S_Official_LOGO.png",
+      "category": "Bangla",
+      "sub_category": "Entertainment",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 347
+    },
+    {
+      "name": "Al QURAN",
+      "logo_url": "https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3",
+      "category": "Religious",
+      "sub_category": "Islamic",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 362
+    },
+    {
+      "name": "AL EKHBARIA",
+      "logo_url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
+      "category": "International News",
+      "sub_category": "Arabic",
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 364
+    },
+    {
+      "name": "DW NEWS",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Deutsche_Welle_logo_2012.svg/320px-Deutsche_Welle_logo_2012.svg.png",
+      "category": "International News",
+      "sub_category": "English",
+      "country_code": "DE",
+      "country_name": "Germany",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 376
+    },
+    {
+      "name": "CNN (US)",
+      "logo_url": "https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png",
+      "category": "International News",
+      "sub_category": "English",
+      "country_code": "US",
+      "country_name": "United States",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 378
+    },
+    {
+      "name": "NDTV NEWS",
+      "logo_url": "https://logodix.com/logo/2131933.jpg",
+      "category": "International News",
+      "sub_category": "English",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 382
+    },
+    {
+      "name": "RTNEWS GLOBAL",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/6/62/RT_Flat.svg",
+      "category": "International News",
+      "sub_category": "English",
+      "country_code": "RU",
+      "country_name": "Russia",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 385
+    },
+    {
+      "name": "TRT WORLD",
+      "logo_url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+      "category": "International News",
+      "sub_category": "English",
+      "country_code": "TR",
+      "country_name": "Turkey",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 390
+    },
+    {
+      "name": "Kolkata TV",
+      "logo_url": "https://assets.calcuttatelevisionnetwork.in/cn.png",
+      "category": "Indian Bangla",
+      "sub_category": "News",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 415
+    },
+    {
+      "name": "ABP Ananda",
+      "logo_url": "https://i.postimg.cc/t7Gn9VtZ/abpananda.png",
+      "category": "Indian Bangla",
+      "sub_category": "News",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 416
+    },
+    {
+      "name": "Dangal TV",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png",
+      "category": "Indian TV",
+      "sub_category": "Entertainment",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 469
+    },
+    {
+      "name": "DD National",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png",
+      "category": "Indian TV",
+      "sub_category": "Entertainment",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 472
+    },
+    {
+      "name": "Aaj Tak",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png",
+      "category": "Indian TV",
+      "sub_category": "News",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 474
+    },
+    {
+      "name": "India TV",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/1/10/India_TV_Orange.jpg",
+      "category": "Indian TV",
+      "sub_category": "News",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 477
+    },
+    {
+      "name": "Republic TV",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/f/fe/Republic-logo2.svg",
+      "category": "Indian TV",
+      "sub_category": "News",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 481
+    },
+    {
+      "name": "Sony MAX",
+      "logo_url": "https://otapp.store/uploads/tv_image/sm/sony-max-hd.png",
+      "category": "Indian TV",
+      "sub_category": "Entertainment",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 496
+    },
+    {
+      "name": "Star Plus",
+      "logo_url": "https://otapp.store/uploads/tv_image/sm/star-plus.png",
+      "category": "Indian TV",
+      "sub_category": "Entertainment",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "http://book4u.top/royr/index.php?id=StarPlusIN",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 504
+    },
+    {
+      "name": "Hum TV",
+      "logo_url": "https://otapp.store/uploads/tv_image/sm/hum-tv.png",
+      "category": "Entertainment",
+      "sub_category": "Drama",
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://backuptof.rustimfahum.workers.dev/media.m3u8?id=7c21a6364fde",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 505
+    },
+    {
+      "name": "Sony SAB",
+      "logo_url": "https://otapp.store/uploads/tv_image/sm/sony-sab-hd.png",
+      "category": "Indian TV",
+      "sub_category": "Entertainment",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://book4u.top/worker/index.php?path=api/f10c3b5c0e/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 523
+    },
+    {
+      "name": "Eurosport",
+      "logo_url": "https://otapp.store/uploads/tv_image/sm/eurosport.png",
+      "category": "Sports",
+      "sub_category": "Live Sports",
+      "country_code": "UK",
+      "country_name": "United Kingdom",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://book4u.top/worker/index.php?path=api/ef22d71b0e/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 538
+    },
+    {
+      "name": "TNT Sport 1",
+      "logo_url": "https://otapp.store/uploads/tv_image/sm/tnt-sport-1.png",
+      "category": "Sports",
+      "sub_category": "Live Sports",
+      "country_code": "UK",
+      "country_name": "United Kingdom",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://earnvid.assadikb.workers.dev/?id=bbtsp1",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 540
+    },
+    {
+      "name": "PTV Sports",
+      "logo_url": "https://otapp.store/uploads/tv_image/sm/ptv-sports.png",
+      "category": "Sports",
+      "sub_category": "Live Sports",
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://earnvid.assadikb.workers.dev/?id=ptvpk",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 541
+    },
+    {
+      "name": "Cartoon Network Hindi",
+      "logo_url": "https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png",
+      "category": "Kids",
+      "sub_category": "Cartoon",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://book4u.top/worker/index.php?path=api/68b0f4e13e/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 550
+    },
+    {
+      "name": "Pogo Hindi",
+      "logo_url": "https://otapp.store/uploads/tv_image/sm/pogo-hindi.png",
+      "category": "Kids",
+      "sub_category": "Cartoon",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://book4u.top/worker/index.php?path=api/d2586d604e/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 552
+    },
+    {
+      "name": "MTV India",
+      "logo_url": "https://otapp.store/uploads/tv_image/sm/mtv-india.png",
+      "category": "Music",
+      "sub_category": "Hindi Music",
+      "country_code": "IN",
+      "country_name": "India",
+      "label": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ],
+      "id": 563
+    }
 ]

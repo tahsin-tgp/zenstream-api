@@ -3,32 +3,141 @@
     {
       "name": "T Sports",
       "servers": [
-        { "name": "Server 1", "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8", "cookie": "", "user_agent": "" },
-        { "name": "Server 2", "url": "http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1", "cookie": "", "user_agent": "" }
+        {
+          "name": "Server 1",
+          "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        },
+        {
+          "name": "Server 2",
+          "url": "http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
+          "cookie": "",
+          "user_agent": ""
+        }
       ]
     },
     {
       "name": "Caze TV",
       "servers": [
-        { "name": "Server 1", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8", "cookie": "", "user_agent": "" }
+        {
+          "name": "Server 1",
+          "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
       ]
     },
     {
       "name": "FOX TV (USA FOX Deportes)",
       "servers": [
-        { "name": "Server 1", "url": "http://206.212.244.63/63/index.m3u8", "cookie": "", "user_agent": "" }
+        {
+          "name": "Server 1",
+          "url": "http://206.212.244.63/63/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
       ]
     },
     {
       "name": "FOX 03",
       "servers": [
-        { "name": "Server 1", "url": "http://stream.cammonitorplus.net/1752/index.m3u8", "cookie": "", "user_agent": "" }
+        {
+          "name": "Server 1",
+          "url": "http://stream.cammonitorplus.net/1752/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
       ]
     },
     {
       "name": "FS1 03",
       "servers": [
-        { "name": "Server 1", "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/328813", "cookie": "", "user_agent": "" }
+        {
+          "name": "Server 1",
+          "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/328813",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ]
+    }
+  ],
+  "Cricket": [
+    {
+      "name": "T Sports",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        },
+        {
+          "name": "Server 2",
+          "url": "http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ]
+    },
+    {
+      "name": "Star Sports 1",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ]
+    },
+    {
+      "name": "Sky Sports Cricket",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ]
+    }
+  ],
+  "Tennis": [
+    {
+      "name": "T Sports",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        },
+        {
+          "name": "Server 2",
+          "url": "http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
+          "cookie": "",
+          "user_agent": ""
+        }
+      ]
+    }
+  ],
+  "Motor Sport": [
+    {
+      "name": "T Sports",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8",
+          "cookie": "",
+          "user_agent": ""
+        },
+        {
+          "name": "Server 2",
+          "url": "http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
+          "cookie": "",
+          "user_agent": ""
+        }
       ]
     }
   ]
