@@ -1,5 +1,16 @@
 {
-  "baseUrl": "https://raw.githubusercontent.com/tahsin-tgp/zenstream-api/main/",
   "disableScreenshotsAndRecording": true,
-  "enableLocationTracking": false
+  "enableLocationTracking": true,
+  "custom_categories": [
+    {
+      "name": "Toffee NS Player",
+      "icon_url": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",
+      "url": "https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_NS_Player.m3u"
+    },
+    {
+      "name": "Toffee Channel Data",
+      "icon_url": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png",
+      "url": "https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_channel_data.json"
+    }
+  ]
 }
