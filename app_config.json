@@ -1,5 +1,5 @@
 {
-  "disableScreenshotsAndRecording": true,
+  "disableScreenshotsAndRecording": false,
   "enableLocationTracking": true,
   "custom_categories": [
     {
