@@ -1,6 +1,6 @@
 {
   "disableScreenshotsAndRecording": false,
-  "enableLocationTracking": true,
+  "enableLocationTracking": false,
   "custom_categories": [
     {
       "name": "Toffee NS Player",
