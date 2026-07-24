@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": 1,
+    "teamA": "Bangladesh",
+    "teamB": "Afghanistan",
+    "sport": "Cricket",
+    "league": "T20 International",
+    "time": "Match Ended",
+    "live": false,
+    "logoA_url": "https://flagcdn.com/w80/bd.png",
+    "logoB_url": "https://flagcdn.com/w80/af.png",
+    "countryA_code": "bd",
+    "countryB_code": "af",
+    "servers": []
+  },
+  {
+    "id": 2,
+    "teamA": "Real Madrid",
+    "teamB": "AC Milan",
+    "sport": "Football",
+    "league": "Club Friendly Games",
+    "time": "Match Ended",
+    "live": false,
+    "logoA_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/150px-Real_Madrid_CF.svg.png",
+    "logoB_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/150px-Logo_of_AC_Milan.svg.png",
+    "countryA_code": "es",
+    "countryB_code": "it",
+    "servers": []
+  }
+]
