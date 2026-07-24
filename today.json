@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "teamA": "Netherlands",
-    "teamB": "Nepal",
-    "sport": "Cricket",
-    "league": "ICC CWC League 2",
+    "teamA": "Como",
+    "teamB": "Paris",
+    "sport": "Football",
+    "league": "Club Friendly Games",
     "time": "Live",
     "live": true,
-    "logoA_url": "https://flagcdn.com/w80/nl.png",
-    "logoB_url": "https://flagcdn.com/w80/np.png",
-    "countryA_code": "nl",
-    "countryB_code": "np",
+    "logoA_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Como_1907_logo.svg/150px-Como_1907_logo.svg.png",
+    "logoB_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/150px-Paris_Saint-Germain_F.C..svg.png",
+    "countryA_code": "it",
+    "countryB_code": "fr",
     "servers": [
       {
         "name": "Server 1",
@@ -20,59 +20,100 @@
   },
   {
     "id": 2,
-    "teamA": "Zimbabwe",
-    "teamB": "India",
-    "sport": "Cricket",
-    "league": "T20 International",
-    "time": "Live",
-    "live": true,
-    "logoA_url": "https://flagcdn.com/w80/zw.png",
-    "logoB_url": "https://flagcdn.com/w80/in.png",
-    "countryA_code": "zw",
-    "countryB_code": "in",
-    "servers": [
-      {
-        "name": "Server 1",
-        "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
-      }
-    ]
+    "teamA": "Swansea",
+    "teamB": "Udinese",
+    "sport": "Football",
+    "league": "Club Friendly Games",
+    "time": "05:00 PM",
+    "live": false,
+    "logoA_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Swansea_City_AFC_logo.svg/150px-Swansea_City_AFC_logo.svg.png",
+    "logoB_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/150px-Udinese_Calcio_logo.svg.png",
+    "countryA_code": "gb-wls",
+    "countryB_code": "it",
+    "servers": []
   },
   {
     "id": 3,
-    "teamA": "Botafogo",
-    "teamB": "Vitória",
-    "sport": "Football",
-    "league": "Brasileirão Betano",
-    "time": "04:30 AM",
+    "teamA": "Formula 1",
+    "teamB": "Formula 1",
+    "sport": "MotorSports",
+    "league": "Formula 1",
+    "time": "05:30 PM",
     "live": false,
-    "logoA_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Botafogo_de_Futebol_e_Regatas_logo.svg",
-    "logoB_url": "https://upload.wikimedia.org/wikipedia/pt/b/bc/ECVitoria2016.png",
-    "countryA_code": "br",
-    "countryB_code": "br",
-    "servers": [
-      {
-        "name": "Server 1",
-        "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
-      }
-    ]
+    "logoA_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/150px-F1.svg.png",
+    "logoB_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/150px-F1.svg.png",
+    "countryA_code": "",
+    "countryB_code": "",
+    "servers": []
   },
   {
     "id": 4,
-    "teamA": "Corinthians",
-    "teamB": "Remo",
+    "teamA": "Wolfsburg",
+    "teamB": "Lyon",
     "sport": "Football",
-    "league": "Brasileirão Betano",
-    "time": "04:30 AM",
+    "league": "Club Friendly Games",
+    "time": "06:00 PM",
     "live": false,
-    "logoA_url": "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b4/Corinthians_simbolo.png/200px-Corinthians_simbolo.png",
-    "logoB_url": "https://upload.wikimedia.org/wikipedia/pt/0/0e/Clube_do_Remo.png",
-    "countryA_code": "br",
-    "countryB_code": "br",
-    "servers": [
-      {
-        "name": "Server 1",
-        "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
-      }
-    ]
+    "logoA_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/150px-VfL_Wolfsburg_Logo.svg.png",
+    "logoB_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Olympique_Lyonnais.svg/150px-Olympique_Lyonnais.svg.png",
+    "countryA_code": "de",
+    "countryB_code": "fr",
+    "servers": []
+  },
+  {
+    "id": 5,
+    "teamA": "BPH-W",
+    "teamB": "TRT-W",
+    "sport": "Cricket",
+    "league": "The Hundred Women",
+    "time": "08:00 PM",
+    "live": false,
+    "logoA_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Birmingham_Phoenix_logo.svg/150px-Birmingham_Phoenix_logo.svg.png",
+    "logoB_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Trent_Rockets_logo.svg/150px-Trent_Rockets_logo.svg.png",
+    "countryA_code": "gb-eng",
+    "countryB_code": "gb-eng",
+    "servers": []
+  },
+  {
+    "id": 6,
+    "teamA": "Rosenborg",
+    "teamB": "Man Utd",
+    "sport": "Football",
+    "league": "Club Friendly Games",
+    "time": "10:00 PM",
+    "live": false,
+    "logoA_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Rosenborg_BK.svg/150px-Rosenborg_BK.svg.png",
+    "logoB_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/150px-Manchester_United_FC_crest.svg.png",
+    "countryA_code": "no",
+    "countryB_code": "gb-eng",
+    "servers": []
+  },
+  {
+    "id": 7,
+    "teamA": "Royal Antwerp",
+    "teamB": "Olympiacos",
+    "sport": "Football",
+    "league": "Club Friendly Games",
+    "time": "11:00 PM",
+    "live": false,
+    "logoA_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Royal_Antwerp_FC_logo.svg/150px-Royal_Antwerp_FC_logo.svg.png",
+    "logoB_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Olympiacos_FC_logo.svg/150px-Olympiacos_FC_logo.svg.png",
+    "countryA_code": "be",
+    "countryB_code": "gr",
+    "servers": []
+  },
+  {
+    "id": 8,
+    "teamA": "BPH",
+    "teamB": "TRT",
+    "sport": "Cricket",
+    "league": "The Hundred",
+    "time": "11:30 PM",
+    "live": false,
+    "logoA_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Birmingham_Phoenix_logo.svg/150px-Birmingham_Phoenix_logo.svg.png",
+    "logoB_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Trent_Rockets_logo.svg/150px-Trent_Rockets_logo.svg.png",
+    "countryA_code": "gb-eng",
+    "countryB_code": "gb-eng",
+    "servers": []
   }
 ]
