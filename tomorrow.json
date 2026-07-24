@@ -1,44 +1,105 @@
-
+[
   {
     "id": 1,
-    "teamA": "Norway",
-    "teamB": "England",
+    "teamA": "Barcelona",
+    "teamB": "Europa",
     "sport": "Football",
-    "league": "FIFA World Cup 2026 - QF",
-    "time": "03:00 AM",
+    "league": "Club Friendly Games",
+    "time": "12:00 AM",
     "live": false,
-    "logoA_url": "https://flagcdn.com/w80/no.png",
-    "logoB_url": "https://flagcdn.com/w80/gb-eng.png",
-    "countryA_code": "no",
-    "countryB_code": "gb-eng",
+    "logoA_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/150px-FC_Barcelona_%28crest%29.svg.png",
+    "logoB_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/CE_Europa_logo.svg/150px-CE_Europa_logo.svg.png",
+    "countryA_code": "es",
+    "countryB_code": "es",
     "servers": [
       {
-        "name": "Toffe",
-        "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8",
-        "cookie": "",
-        "user_agent": ""
+        "name": "Server 1",
+        "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
       }
     ]
   },
   {
     "id": 2,
-    "teamA": "Argentina",
-    "teamB": "Switzerland",
+    "teamA": "Galatasaray",
+    "teamB": "Monza",
     "sport": "Football",
-    "league": "FIFA World Cup 2026 - QF",
-    "time": "07:00 AM",
+    "league": "Club Friendly Games",
+    "time": "12:00 AM",
     "live": false,
-    "logoA_url": "https://flagcdn.com/w80/ar.png",
-    "logoB_url": "https://flagcdn.com/w80/ch.png",
-    "countryA_code": "ar",
-    "countryB_code": "ch",
-    "servers": [
-      {
-        "name": "Toffe",
-        "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8",
-        "cookie": "",
-        "user_agent": ""
-      }
-    ]
+    "logoA_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Galatasaray_Star.svg/150px-Galatasaray_Star.svg.png",
+    "logoB_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/AC_Monza_logo.svg/150px-AC_Monza_logo.svg.png",
+    "countryA_code": "tr",
+    "countryB_code": "it",
+    "servers": []
+  },
+  {
+    "id": 3,
+    "teamA": "WWE",
+    "teamB": "WWE",
+    "sport": "Wrestling",
+    "league": "Friday Night SmackDown",
+    "time": "06:00 AM",
+    "live": false,
+    "logoA_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/SmackDown_Live_logo.png/200px-SmackDown_Live_logo.png",
+    "logoB_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/SmackDown_Live_logo.png/200px-SmackDown_Live_logo.png",
+    "countryA_code": "",
+    "countryB_code": "",
+    "servers": []
+  },
+  {
+    "id": 4,
+    "teamA": "SL-W",
+    "teamB": "PAK-W",
+    "sport": "Cricket",
+    "league": "Women's Championship",
+    "time": "10:30 AM",
+    "live": false,
+    "logoA_url": "https://flagcdn.com/w80/lk.png",
+    "logoB_url": "https://flagcdn.com/w80/pk.png",
+    "countryA_code": "lk",
+    "countryB_code": "pk",
+    "servers": []
+  },
+  {
+    "id": 5,
+    "teamA": "GG",
+    "teamB": "KRL",
+    "sport": "Cricket",
+    "league": "Lanka Premier League",
+    "time": "03:30 PM",
+    "live": false,
+    "logoA_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Galle_Gladiators_logo.png/150px-Galle_Gladiators_logo.png",
+    "logoB_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Kandy_Falcons_logo.png/150px-Kandy_Falcons_logo.png",
+    "countryA_code": "lk",
+    "countryB_code": "lk",
+    "servers": []
+  },
+  {
+    "id": 6,
+    "teamA": "ZIM",
+    "teamB": "IND",
+    "sport": "Cricket",
+    "league": "T20 International",
+    "time": "05:00 PM",
+    "live": false,
+    "logoA_url": "https://flagcdn.com/w80/zw.png",
+    "logoB_url": "https://flagcdn.com/w80/in.png",
+    "countryA_code": "zw",
+    "countryB_code": "in",
+    "servers": []
+  },
+  {
+    "id": 7,
+    "teamA": "WI",
+    "teamB": "PAK",
+    "sport": "Cricket",
+    "league": "World Test Championship",
+    "time": "08:00 PM",
+    "live": false,
+    "logoA_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cricket_West_Indies_Logo_2017.svg/150px-Cricket_West_Indies_Logo_2017.svg.png",
+    "logoB_url": "https://flagcdn.com/w80/pk.png",
+    "countryA_code": "wi",
+    "countryB_code": "pk",
+    "servers": []
   }
 ]
